@@ -1,0 +1,18 @@
+[
+  {
+    "id": "fe5529ca-9043-4a34-b7c7-d8676ac81009",
+    "mode": "CASH"
+  },
+  {
+    "id": "96662bf4-7afe-4e56-943e-9ce0c6d2dc16",
+    "mode": "CARD"
+  },
+  {
+    "id": "db64d20e-a829-4169-adc5-c6fa00092fd0",
+    "mode": "NET BANKING"
+  },
+  {
+    "id": "f6c882a6-06c3-4c5f-92fe-17095166cfca",
+    "mode": "UPI"
+  }
+]
