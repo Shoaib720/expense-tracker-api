@@ -1,81 +1,162 @@
 [
   {
-    "id": "698a07be-55a7-470a-992f-510d527274ea",
-    "category": "Health Care",
-    "sub_categories": [
-      "Medicines",
-      "Doctor Fees"
-    ]
+    "id": "52339ca9-bded-4c3a-9ae8-f77c811cc4a9",
+    "parent_category_id": null,
+    "category": "Health Care"
   },
   {
-    "id": "426d72b9-a9df-4173-b924-ef4345bdb7d6",
-    "category": "Investments",
-    "sub_categories": []
+    "id": "ab466de3-4420-4a63-83e9-baf3a48388e0",
+    "parent_category_id": "52339ca9-bded-4c3a-9ae8-f77c811cc4a9",
+    "category": "Medicines"
   },
   {
-    "id": "48eb19f1-6a41-4d64-862c-83afe12d803b",
-    "category": "Food",
-    "sub_categories": []
+    "id": "35658ca8-948b-4329-b7fd-20fe875f0e2c",
+    "parent_category_id": "52339ca9-bded-4c3a-9ae8-f77c811cc4a9",
+    "category": "Doctor Fees"
   },
   {
-    "id": "77c939a7-01ec-43d8-9ab3-559fcf10ece0",
-    "category": "Shopping",
-    "sub_categories": [
-      "Amazon",
-      "Flipkart",
-      "Street"
-    ]
+    "id": "26aeb1f5-3ca7-4ef9-b6d0-0a2af078a40e",
+    "parent_category_id": null,
+    "category": "Investments"
   },
   {
-    "id": "f6db519b-e83b-46cc-853d-1d505a6d4d7a",
-    "category": "Education",
-    "sub_categories": [
-      "Fees",
-      "Stationeries"
-    ]
+    "id": "a4d8eebe-7d40-4c83-9684-c13c6ab77e12",
+    "parent_category_id": null,
+    "category": "Food"
   },
   {
-    "id": "c54b4d7a-f4d4-4bc6-9799-577231b85b0f",
-    "category": "Subscriptions",
-    "sub_categories": [
-      "Netflix",
-      "Medium",
-      "Youtube",
-      "Amazon Prime",
-      "Google Drive"
-    ]
+    "id": "6fd28c62-b0c0-4b1f-82ff-7e54b9422273",
+    "parent_category_id": null,
+    "category": "Shopping"
   },
   {
-    "id": "7d53f161-9e3d-4b17-98a1-a10081701cd0",
-    "category": "Recharges",
-    "sub_categories": [
-      "Mobile",
-      "Wifi",
-      "Railway Pass"
-    ]
+    "id": "d8ca011b-adcf-4f22-b54a-a43ab7aa80d4",
+    "parent_category_id": "6fd28c62-b0c0-4b1f-82ff-7e54b9422273",
+    "category": "Amazon"
   },
   {
-    "id": "974d38fd-a435-471e-9600-640db5cb216e",
-    "category": "Travel",
-    "sub_categories": [
-      "Daily Commute"
-    ]
+    "id": "7e44bc28-8c38-44ed-adc7-4bfb3c860e2f",
+    "parent_category_id": "6fd28c62-b0c0-4b1f-82ff-7e54b9422273",
+    "category": "Flipkart"
   },
   {
-    "id": "c0174337-508e-465c-8961-f49fa38c9e2e",
-    "category": "Bills",
-    "sub_categories": [
-      "Maintenance",
-      "Tax",
-      "AWS",
-      "Azure",
-      "Electricity",
-      "Gas"
-    ]
+    "id": "8179c440-259e-4cc0-a140-f5aa9d3d5fa1",
+    "parent_category_id": "6fd28c62-b0c0-4b1f-82ff-7e54b9422273",
+    "category": "Street"
   },
   {
-    "id": "635c2539-8193-4ad5-a328-b5deafc760fa",
-    "category": "House Expense",
-    "sub_categories": []
+    "id": "6c486a7d-1703-4e1e-95b3-b4af3b02a33d",
+    "parent_category_id": null,
+    "category": "Education"
+  },
+  {
+    "id": "1da30e04-9279-4a0c-8ead-6137a26b88a7",
+    "parent_category_id": "6c486a7d-1703-4e1e-95b3-b4af3b02a33d",
+    "category": "Fees"
+  },
+  {
+    "id": "9db72469-e171-493f-8df2-1e38efbcb784",
+    "parent_category_id": "6c486a7d-1703-4e1e-95b3-b4af3b02a33d",
+    "category": "Stationeries"
+  },
+  {
+    "id": "e95df96e-173c-40c2-b68c-9a56b1faa2a2",
+    "parent_category_id": null,
+    "category": "Subscriptions"
+  },
+  {
+    "id": "0e45f972-147e-45d7-9c33-46e2ae409230",
+    "parent_category_id": "e95df96e-173c-40c2-b68c-9a56b1faa2a2",
+    "category": "Netflix"
+  },
+  {
+    "id": "3835c581-e2bf-4b8a-9338-a80e948aa246",
+    "parent_category_id": "e95df96e-173c-40c2-b68c-9a56b1faa2a2",
+    "category": "Medium"
+  },
+  {
+    "id": "1cc3e90c-5cd7-45bb-8e1e-d3ec2a6f8e59",
+    "parent_category_id": "e95df96e-173c-40c2-b68c-9a56b1faa2a2",
+    "category": "Youtube"
+  },
+  {
+    "id": "1fbd20bb-4e0f-4e77-85cf-934b7cc14494",
+    "parent_category_id": "e95df96e-173c-40c2-b68c-9a56b1faa2a2",
+    "category": "Amazon Prime"
+  },
+  {
+    "id": "43bb66fa-3c0f-4a66-8ba6-613020406aa4",
+    "parent_category_id": "e95df96e-173c-40c2-b68c-9a56b1faa2a2",
+    "category": "Google Drive"
+  },
+  {
+    "id": "ab873e7a-ab17-4152-9e8e-67755c2cfb04",
+    "parent_category_id": null,
+    "category": "Recharges"
+  },
+  {
+    "id": "398ec2de-ab22-4fc3-ad02-e2bcf02b0758",
+    "parent_category_id": "ab873e7a-ab17-4152-9e8e-67755c2cfb04",
+    "category": "Mobile"
+  },
+  {
+    "id": "42749ebb-bfcb-4a05-8a41-af52dce3a825",
+    "parent_category_id": "ab873e7a-ab17-4152-9e8e-67755c2cfb04",
+    "category": "Wifi"
+  },
+  {
+    "id": "f82767da-273c-4bec-bd25-0f859cce4720",
+    "parent_category_id": "ab873e7a-ab17-4152-9e8e-67755c2cfb04",
+    "category": "Railway Pass"
+  },
+  {
+    "id": "9fce25f1-c2ed-4803-a691-3372470c13b2",
+    "parent_category_id": null,
+    "category": "Travel"
+  },
+  {
+    "id": "78a454fb-b6f0-4a94-880e-4c0fc2197287",
+    "parent_category_id": "9fce25f1-c2ed-4803-a691-3372470c13b2",
+    "category": "Daily Commute"
+  },
+  {
+    "id": "a8501372-4a9d-4ee2-8805-f66bece5f4db",
+    "parent_category_id": null,
+    "category": "Bills"
+  },
+  {
+    "id": "0fbb0ae3-1037-4304-8436-2f07e0dd924b",
+    "parent_category_id": "a8501372-4a9d-4ee2-8805-f66bece5f4db",
+    "category": "Maintenance"
+  },
+  {
+    "id": "6d025035-cb14-4726-82fb-2fbcb39644fd",
+    "parent_category_id": "a8501372-4a9d-4ee2-8805-f66bece5f4db",
+    "category": "Tax"
+  },
+  {
+    "id": "37885e20-1262-4f92-9e8f-af01cec908ea",
+    "parent_category_id": "a8501372-4a9d-4ee2-8805-f66bece5f4db",
+    "category": "AWS"
+  },
+  {
+    "id": "6e62ce60-daa3-4940-a1c5-39e3a953e442",
+    "parent_category_id": "a8501372-4a9d-4ee2-8805-f66bece5f4db",
+    "category": "Azure"
+  },
+  {
+    "id": "ae7f59f3-e0ac-4244-82d1-ece128107d58",
+    "parent_category_id": "a8501372-4a9d-4ee2-8805-f66bece5f4db",
+    "category": "Electricity"
+  },
+  {
+    "id": "05b855f3-201b-4861-a4f7-1284018f8607",
+    "parent_category_id": "a8501372-4a9d-4ee2-8805-f66bece5f4db",
+    "category": "Gas"
+  },
+  {
+    "id": "35708dd8-598c-454c-a77e-775877fad949",
+    "parent_category_id": null,
+    "category": "House Expense"
   }
 ]
