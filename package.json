@@ -1,0 +1,19 @@
+{
+  "name": "expense-tracker-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "NODE_ENV=development nodemon src/express-app.js",
+    "prod": "NODE_ENV=production node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1527.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "serverless-http": "^3.2.0",
+    "uuid": "^9.0.1"
+  }
+}

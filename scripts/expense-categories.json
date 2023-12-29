@@ -1,0 +1,81 @@
+[
+  {
+    "id": "698a07be-55a7-470a-992f-510d527274ea",
+    "category": "Health Care",
+    "sub_categories": [
+      "Medicines",
+      "Doctor Fees"
+    ]
+  },
+  {
+    "id": "426d72b9-a9df-4173-b924-ef4345bdb7d6",
+    "category": "Investments",
+    "sub_categories": []
+  },
+  {
+    "id": "48eb19f1-6a41-4d64-862c-83afe12d803b",
+    "category": "Food",
+    "sub_categories": []
+  },
+  {
+    "id": "77c939a7-01ec-43d8-9ab3-559fcf10ece0",
+    "category": "Shopping",
+    "sub_categories": [
+      "Amazon",
+      "Flipkart",
+      "Street"
+    ]
+  },
+  {
+    "id": "f6db519b-e83b-46cc-853d-1d505a6d4d7a",
+    "category": "Education",
+    "sub_categories": [
+      "Fees",
+      "Stationeries"
+    ]
+  },
+  {
+    "id": "c54b4d7a-f4d4-4bc6-9799-577231b85b0f",
+    "category": "Subscriptions",
+    "sub_categories": [
+      "Netflix",
+      "Medium",
+      "Youtube",
+      "Amazon Prime",
+      "Google Drive"
+    ]
+  },
+  {
+    "id": "7d53f161-9e3d-4b17-98a1-a10081701cd0",
+    "category": "Recharges",
+    "sub_categories": [
+      "Mobile",
+      "Wifi",
+      "Railway Pass"
+    ]
+  },
+  {
+    "id": "974d38fd-a435-471e-9600-640db5cb216e",
+    "category": "Travel",
+    "sub_categories": [
+      "Daily Commute"
+    ]
+  },
+  {
+    "id": "c0174337-508e-465c-8961-f49fa38c9e2e",
+    "category": "Bills",
+    "sub_categories": [
+      "Maintenance",
+      "Tax",
+      "AWS",
+      "Azure",
+      "Electricity",
+      "Gas"
+    ]
+  },
+  {
+    "id": "635c2539-8193-4ad5-a328-b5deafc760fa",
+    "category": "House Expense",
+    "sub_categories": []
+  }
+]
